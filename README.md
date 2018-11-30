@@ -7,6 +7,7 @@ Basic Kotlin Scoring app with Unit and Instrumentation tests.
 
 
 ### How to use
+
 Step 1: Clone this project
 
 Step 2: Install all dependencies
@@ -18,9 +19,11 @@ Step 4: Open ```AdditionUnitTest.kt``` (in the test folder) and run
 
 
 ### License
+
 MIT. Please see the [LICENSE](https://github.com/AdoraNwodo/testingexample/blob/master/LICENSE) file
 
-## Contributing
+
+### Contributing
 
 Contributions are welcome and will be fully credited.
 
